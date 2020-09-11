@@ -5782,4 +5782,8 @@ export const BattleFormatsData: {[k: string]: SpeciesFormatsData} = {
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	charizardhydreigon: {
+                tier: "OU",
+        },
+
 };

@@ -16757,4 +16757,16 @@ export const BattlePokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	charizardhydreigon: {
+                num: 12722,
+                name: "charizardhydreigon",
+                types: ["Fire", "Dragon"],
+                baseStats: {hp: 82, atk: 98, def: 86, spa: 114, spd: 86, spe: 98},
+                abilities: {0: "Blaze", 1: "Levitate", H: "Solar Power"},
+                heightm: 1.75,
+                weightkg: 125.25,
+                color: "Red",
+                eggGroups: ["Dragon", "Monster"],
+        },
+
 };
